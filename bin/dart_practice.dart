@@ -1,4 +1,9 @@
 void main(){
-  print('Hello World');
-  // Hello World
+// Variables
+// String
+//var name = 'Sam'
+String name = 'Sam';
+
+print(name);
+
 }
