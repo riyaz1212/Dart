@@ -3,8 +3,8 @@ import 'dart:io';
 void main(){
   print('Enter your name: ');
 
-  String? name = stdin.readLineSync()!;
+  int? num = stdin.readByteSync()!;
 
-  print('$name');
+  print('$num');
 
 }
